@@ -21,7 +21,7 @@ namespace EntityFrameworkExample.Controllers
             var list = db.Universities.ToList();
 
 
-            var index = " ";
+            var index = "Name ";
 
 
 
